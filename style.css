@@ -40,7 +40,7 @@ body{
     
 }
 .box1 p{
-    font-size: 13px;
+    font-size: 14px;
    padding-bottom: 15px;
 }
 .box2{
@@ -50,9 +50,13 @@ body{
 .box3{
     padding-left: 350px;
     padding-right: 350px;
-    
+     
 }
 .box3 p{
     margin-top: 25px;
     text-align: justify;
-}
+    margin-bottom: 40px;
+    }
+    .box4{
+        margin-bottom: 40px;
+    }
