@@ -42,7 +42,7 @@ main p {
   }
 
 .box1 img {
-    padding: 0 15%;
+   
     max-width: 100%;
     min-width: 320px;
     display: block;
@@ -54,8 +54,9 @@ main p {
 }
 
 .box2 {
-    padding-left: 30%;
-    padding-right: 30%;
+   max-width: 500px;
+   margin: 0 auto;
+   padding-left: 20px;
 }
 .box2 h3{
     text-align: center;
@@ -68,8 +69,8 @@ b{
     font-size: 18px;
 }
 .box3 {
-    padding-left: 30%;
-    padding-right: 30%;
+    max-width: 500px;
+    margin: 0 auto;
 
 }
 
@@ -81,4 +82,7 @@ b{
 
 .box4 {
     margin-bottom: 40px;
+}
+#center{
+
 }
